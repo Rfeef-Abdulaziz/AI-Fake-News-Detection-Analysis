@@ -61,5 +61,3 @@ See [Project_Report.pdf](Project_Report.pdf) for the complete analysis
 across all 7 phases.
 
 ---
-*Note: Streamlit deployment (Phase 7) was built by a teammate; my contribution 
-was the Random Forest model (Phase 6) that powers the dashboard's backend.*
